@@ -1,0 +1,4 @@
+cbconfig
+========
+
+Current #! (Crunchbang) configuration
